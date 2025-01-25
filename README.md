@@ -3,7 +3,7 @@ This project aims to develop a machine learning model capable of forecasting fut
 
 Key Features:
 
-Data collection and preprocessing
-Exploratory Data Analysis (EDA)
-Feature engineering
+Data collection and preprocessing,
+Exploratory Data Analysis (EDA),
+Feature engineering,
 Model training and evaluation
